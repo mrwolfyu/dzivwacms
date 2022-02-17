@@ -4,7 +4,7 @@
 
 Usualy port 80 and 22 are already in use, so maping to other ports is recomended (8080 and 2222).
 ```
-sudo docker run  -p 8080:80 -p 2222:22 --name testDziVWA mrwolfyu/dzidavwa:1.0
+sudo docker run  -p 8080:80 -p 2222:22 --name testDziVWA mrwolfyu/dzivwa:1.0
 ```
 ## Level 1:
 
