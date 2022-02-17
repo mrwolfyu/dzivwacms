@@ -8,19 +8,19 @@ sudo docker run  -p 8080:80 -p 2222:22 --name testDziVWA mrwolfyu/dzivwa
 ```
 ## Level 1:
 
-Task: Login to app and find full name of admin user?
+Task: Login to app and find full name of admin user.
 ```
 Answer:  
 ```
 ## Level 2:
 
-Task: Read user.txt flag from www-data user homedir (/var/www/)?
+Task: Read user.txt flag from www-data user homedir (/var/www/).
 ```
 Answer: 
 ```
 ## Level 3:
 
-Task: Read root.txt flag from root user homedir (/root)?
+Task: Read root.txt flag from root user homedir (/root).
 ```
 Answer: 
 ```
